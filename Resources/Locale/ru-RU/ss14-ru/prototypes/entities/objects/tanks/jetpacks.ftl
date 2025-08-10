@@ -4,3 +4,4 @@ ent-JetpackMining = навесной джетпак
 ent-JetpackMiningFilled = { ent-JetpackMining  }
     .desc = { ent-JetpackMining.desc  }
     .suffix = Полный
+
