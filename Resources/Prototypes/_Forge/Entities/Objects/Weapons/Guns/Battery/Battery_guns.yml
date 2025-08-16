@@ -298,7 +298,7 @@
   parent: [ BaseWeaponEnergyPistolFireModesSyndie, BaseWeaponFrameEnergyPistolSyndie, BaseC3Contraband ]
   name: pistol "Falcon"
   description: |-
-    Brand new laser pistol made for Syndicate operatives
+    Powerful laser pistol specially designed by Vitezstvi for the Gorlax Marauders
   components:
   - type: Sprite
     sprite: Forge/Objects/Weapons/Guns/Battery/laser_pistol_syndie.rsi
