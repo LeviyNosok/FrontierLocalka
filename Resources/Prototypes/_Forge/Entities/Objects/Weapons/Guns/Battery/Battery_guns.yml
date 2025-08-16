@@ -148,11 +148,11 @@
       path: /Audio/Weapons/Guns/Gunshots/laser_cannon.ogg
   - type: ProjectileBatteryAmmoProvider
     proto: BulletLaserHeavySyndie
-    fireCost: 240
+    fireCost: 160
   - type: BatteryWeaponFireModes
     fireModes:
     - proto: BulletLaserHeavySyndie
-      fireCost: 240
+      fireCost: 160
     - proto: NFBulletDisabler
       fireCost: 80
 
@@ -216,4 +216,4 @@
     impactEffect: BulletImpactEffectOrangeDisabler
     damage:
       types:
-        Heat: 17
+        Heat: 15
