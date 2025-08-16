@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingScarfBase
+  id: ClothingNeckScarfNiko
+  name: long cat scarf
+  description: I'm not a cat!
+  components:
+  - type: Sprite
+    sprite: Forge/Clothing/Neck/Scarfs/niko.rsi
+  - type: Clothing
+    sprite: Forge/Clothing/Neck/Scarfs/niko.rsi
