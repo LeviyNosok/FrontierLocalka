@@ -590,3 +590,11 @@
   completetime: 1
   materials:
     CreditCounterfeit: 64200
+
+- type: latheRecipe
+  categories: [SyndicateTradingConsoleFirearmsWeapons]
+  id: WeaponSyndieEnergyRifleCarbineRecipe
+  result: WeaponSyndieEnergyRifleCarbine
+  completetime: 1
+  materials:
+    CreditCounterfeit: 44000

@@ -203,7 +203,7 @@
     startingCharge: 2400
   - type: BatterySelfRecharger
     autoRecharge: true
-    autoRechargeRate: 20 # Default recharge rate: 1 shot per 20 seconds with 80 fireCost
+    autoRechargeRate: 12
   - type: NFWeaponDetails
     class: weapon-details-class-assault-rifle
 

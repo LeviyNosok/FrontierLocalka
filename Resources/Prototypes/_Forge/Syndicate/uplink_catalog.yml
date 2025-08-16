@@ -2279,3 +2279,13 @@
     blacklist:
       components:
       - SurplusBundle
+
+- type: listing
+  id: SmuggerUplinkSyndieLaser
+  name: uplink-syndie-laser-name
+  description: uplink-syndie-laser-desc
+  productEntity: WeaponSyndieEnergyRifleCarbine
+  cost:
+    TelecrystalDamaged: 34
+  categories:
+  - UplinkWeaponrySmugger

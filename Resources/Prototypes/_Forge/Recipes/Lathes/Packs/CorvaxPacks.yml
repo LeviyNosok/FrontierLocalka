@@ -148,6 +148,7 @@
   - Rickenbacker4001InstrumentRecipe
   - KanabouRecipe
   - ClothingHandsGlovesNorthStarRecipe
+  - WeaponSyndieEnergyRifleCarbineRecipe
 
 - type: latheRecipePack
   id: SyndicateTradingConsoleArmor
