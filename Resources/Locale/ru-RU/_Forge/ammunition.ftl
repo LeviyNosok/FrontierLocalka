@@ -31,21 +31,25 @@ ent-NFCartridgeRifle20Practice = патрон (.20 винтовочный, уч�
 ent-NFCartridgeRifle20Rubber = патрон (.20 винтовочный, резиновый)
 ent-NFCartridgeRifle20Uranium = патрон (.20 винтовочный, урановый)
 
-ent-NFMagazineClipRifle20 = обойма патрон (.20 винтовочный)
-ent-NFMagazineClipRifle20Empty = обойма патрон (.20 винтовочный, любой)
+ent-NFMagazineClipRifle20 = обойма (.20 винтовочный)
+ent-NFMagazineClipRifle20Empty = обойма (.20 винтовочный, любой)
+    .suffix = пустая
+ent-NFMagazineClipRifle20Rubber = обойма (.20 винтовочный, резиновый)
+ent-NFMagazineRifle20 = магазин (.20 винтовочный)
+ent-NFMagazineRifle20Empty = магазин (.20 винтовочный, любой)
     .suffix = пустой
-ent-NFMagazineClipRifle20Rubber = обойма патрон (.20 винтовочный, резиновый)
-ent-NFMagazineRifle20 = магазин патрон (.20 винтовочный)
-ent-NFMagazineRifle20Empty = магазин патрон (.20 винтовочный, любой)
-ent-NFMagazineRifle20Incendiary = магазин патрон (.20 винтовочный, зажигательный)
-ent-NFMagazineRifle20Overpressure = магазин патрон (.20 винтовочный, экспансивный)
-ent-NFMagazineRifle20Practice = магазин патрон (.20 винтовочный, учебный)
-ent-NFMagazineRifle20Rubber = магазин патрон (.20 винтовочный, резиновый)
-ent-NFMagazineRifle20Uranium = магазин патрон (.20 винтовочный, урановый)
-ent-NFMagazineDrumRifle20 = барабан патрон (.20 винтовочный)
-ent-NFMagazineDrumRifle20Empty = барабан патрон (.20 винтовочный, любой)
-ent-NFMagazineBoxRifle20 = магазин патрон (.20 винтовочный)
+ent-NFMagazineRifle20Incendiary = магазин (.20 винтовочный, зажигательный)
+ent-NFMagazineRifle20Overpressure = магазин (.20 винтовочный, экспансивный)
+ent-NFMagazineRifle20Practice = магазин (.20 винтовочный, учебный)
+ent-NFMagazineRifle20Rubber = магазин (.20 винтовочный, резиновый)
+ent-NFMagazineRifle20Uranium = магазин (.20 винтовочный, урановый)
+ent-NFMagazineDrumRifle20 = барабанный магазин (.20 винтовочный)
+ent-NFMagazineDrumRifle20Empty = барабанный магазин (.20 винтовочный, любой)
+    .suffix = пустой
+ent-NFMagazineBoxRifle20 = коробчатый магазин (.20 винтовочный)
 
+ent-NFBoxMagazineRifle20Ovepressure = коробка магазинов .20 винтовочный (экспансивные)
+ent-NFBoxMagazineRifle20Rubber = коробка магазинов .20 винтовочный (резиновые)
 
 
 ent-NFAmmunitionBoxRifle25 = ящик патрон (.25 винтовочный)
@@ -90,22 +94,25 @@ ent-NFCartridgeRifle30Practice = патрон (.30 винтовочный, уч�
 ent-NFCartridgeRifle30Rubber = патрон (.30 винтовочный, резиновый)
 ent-NFCartridgeRifle30Uranium = патрон (.30 винтовочный, урановый)
 
-ent-NFMagazineLowCapacityRifle30 = уменьшенный магазин патрон (.30 винтовочный)
-ent-NFMagazineLowCapacityRifle30Empty = уменьшенный магазин патрон (.30 винтовочный, любой)
+ent-NFMagazineLowCapacityRifle30 = уменьшенный магазин (.30 винтовочный)
+ent-NFMagazineLowCapacityRifle30Empty = уменьшенный магазин (.30 винтовочный, любой)
     .suffix = пустой
-ent-NFMagazineLowCapacityRifle30Incendiary = уменьшенный магазин патрон (.30 винтовочный, зажигательный)
-ent-NFMagazineLowCapacityRifle30Overpressure = уменьшенный магазин патрон (.30 винтовочный, экспансивный)
-ent-NFMagazineLowCapacityRifle30Practice = уменьшенный магазин патрон (.30 винтовочный, учебный)
-ent-NFMagazineLowCapacityRifle30Rubber = уменьшенный магазин патрон (.30 винтовочный, резиновый)
-ent-NFMagazineLowCapacityRifle30Uranium = уменьшенный магазин патрон (.30 винтовочный, урановый)
-ent-NFMagazineRifle30 = магазин патрон (.30 винтовочный)
-ent-NFMagazineRifle30Empty = магазин патрон (.30 винтовочный, любой)
+ent-NFMagazineLowCapacityRifle30Incendiary = уменьшенный магазин (.30 винтовочный, зажигательный)
+ent-NFMagazineLowCapacityRifle30Overpressure = уменьшенный магазин (.30 винтовочный, экспансивный)
+ent-NFMagazineLowCapacityRifle30Practice = уменьшенный магазин (.30 винтовочный, учебный)
+ent-NFMagazineLowCapacityRifle30Rubber = уменьшенный магазин (.30 винтовочный, резиновый)
+ent-NFMagazineLowCapacityRifle30Uranium = уменьшенный магазин (.30 винтовочный, урановый)
+ent-NFMagazineRifle30 = магазин (.30 винтовочный)
+ent-NFMagazineRifle30Empty = магазин (.30 винтовочный, любой)
     .suffix = пустой
-ent-NFMagazineRifle30Incendiary = магазин патрон (.30 винтовочный, зажигательный)
-ent-NFMagazineRifle30Overpressure = магазин патрон (.30 винтовочный, экспансивный)
-ent-NFMagazineRifle30Practice = магазин патрон (.30 винтовочный, учебный)
-ent-NFMagazineRifle30Rubber = магазин патрон (.30 винтовочный, резиновый)
-ent-NFMagazineRifle30Uranium = магазин патрон (.30 винтовочный, урановый)
+ent-NFMagazineRifle30Incendiary = магазин (.30 винтовочный, зажигательный)
+ent-NFMagazineRifle30Overpressure = магазин (.30 винтовочный, экспансивный)
+ent-NFMagazineRifle30Practice = магазин (.30 винтовочный, учебный)
+ent-NFMagazineRifle30Rubber = магазин (.30 винтовочный, резиновый)
+ent-NFMagazineRifle30Uranium = магазин (.30 винтовочный, урановый)
+
+ent-NFBoxMagazineRifle30Ovepressure = коробка магазинов .30 винтовочный (экспансивные)
+ent-NFBoxMagazineRifle30Rubber = коробка магазинов .30 винтовочный (резиновые)
 
 
 
@@ -125,42 +132,52 @@ ent-NFCartridgePistol35Practice = патрон (.35 пистолетный, уч
 ent-NFCartridgePistol35Rubber = патрон (.35 пистолетный, резиновый)
 ent-NFCartridgePistol35Uranium = патрон (.35 пистолетный, урановый)
 
-ent-NFMagazineHighCapacityPistol35 = увеличенный магазин патрон (.35 пистолетный)
-ent-NFMagazineHighCapacityPistol35Emp = увеличенный магазин патрон (.35 пистолетный, ЭМИ)
-ent-NFMagazineHighCapacityPistol35Empty = увеличенный магазин патрон (.35 пистолетный, любой)
+ent-NFMagazineHighCapacityPistol35 = увеличенный магазин (.35 пистолетный)
+ent-NFMagazineHighCapacityPistol35Emp = увеличенный магазин (.35 пистолетный, ЭМИ)
+ent-NFMagazineHighCapacityPistol35Empty = увеличенный магазин (.35 пистолетный, любой)
     .suffix = пустой
-ent-NFMagazineHighCapacityPistol35Incendiary = увеличенный магазин патрон (.35 пистолетный, зажигательный)
-ent-NFMagazineHighCapacityPistol35Overpressure = увеличенный магазин патрон (.35 пистолетный, экспансивный)
-ent-NFMagazineHighCapacityPistol35Practice = увеличенный магазин патрон (.35 пистолетный, учебный)
-ent-NFMagazineHighCapacityPistol35Rubber = увеличенный магазин патрон (.35 пистолетный, резиновый)
-ent-NFMagazineHighCapacityPistol35Uranium = увеличенный магазин патрон (.35 пистолетный, урановый)
-ent-NFMagazinePistol35 = магазин патрон (.35 пистолетный)
-ent-NFMagazinePistol35Emp = магазин патрон (.35 пистолетный, ЭМИ)
-ent-NFMagazinePistol35Empty = магазин патрон (.35 пистолетный, любой)
+ent-NFMagazineHighCapacityPistol35Incendiary = увеличенный магазин (.35 пистолетный, зажигательный)
+ent-NFMagazineHighCapacityPistol35Overpressure = увеличенный магазин (.35 пистолетный, экспансивный)
+ent-NFMagazineHighCapacityPistol35Practice = увеличенный магазин (.35 пистолетный, учебный)
+ent-NFMagazineHighCapacityPistol35Rubber = увеличенный магазин (.35 пистолетный, резиновый)
+ent-NFMagazineHighCapacityPistol35Uranium = увеличенный магазин (.35 пистолетный, урановый)
+ent-NFMagazinePistol35 = магазин (.35 пистолетный)
+ent-NFMagazinePistol35Emp = магазин (.35 пистолетный, ЭМИ)
+ent-NFMagazinePistol35Empty = магазин (.35 пистолетный, любой)
     .suffix = пустой
-ent-NFMagazinePistol35Incendiary = магазин патрон (.35 пистолетный, зажигательный)
-ent-NFMagazinePistol35Overpressure = магазин патрон (.35 пистолетный, экспансивный)
-ent-NFMagazinePistol35Practice = магазин патрон (.35 пистолетный, учебный)
-ent-NFMagazinePistol35Rubber = магазин патрон (.35 пистолетный, резиновый)
-ent-NFMagazinePistol35Uranium = магазин патрон (.35 пистолетный, урановый)
-ent-NFMagazineSubMachineGun35 = магазин патрон (.35 пистолетный)
-ent-NFMagazineSubMachineGun35Emp = магазин патрон (.35 пистолетный, ЭМИ)
-ent-NFMagazineSubMachineGun35Empty = магазин патрон (.35 пистолетный, любой)
+ent-NFMagazinePistol35Incendiary = магазин (.35 пистолетный, зажигательный)
+ent-NFMagazinePistol35Overpressure = магазин (.35 пистолетный, экспансивный)
+ent-NFMagazinePistol35Practice = магазин (.35 пистолетный, учебный)
+ent-NFMagazinePistol35Rubber = магазин (.35 пистолетный, резиновый)
+ent-NFMagazinePistol35Uranium = магазин (.35 пистолетный, урановый)
+ent-NFMagazineSubMachineGun35 = магазин (.35 пистолетный)
+ent-NFMagazineSubMachineGun35Emp = магазин (.35 пистолетный, ЭМИ)
+ent-NFMagazineSubMachineGun35Empty = магазин (.35 пистолетный, любой)
     .suffix = пустой
-ent-NFMagazineSubMachineGun35Incendiary = магазин патрон (.35 пистолетный, зажигательный)
-ent-NFMagazineSubMachineGun35Overpressure = магазин патрон (.35 пистолетный, экспансивный)
-ent-NFMagazineSubMachineGun35Practice = магазин патрон (.35 пистолетный, учебный)
-ent-NFMagazineSubMachineGun35Rubber = магазин патрон (.35 пистолетный, резиновый)
-ent-NFMagazineSubMachineGun35Uranium = магазин патрон (.35 пистолетный, урановый)
-ent-NFMagazineSubMachineGunTopMounted35 = магазин патрон (.35 пистолетный)
-ent-NFMagazineSubMachineGunTopMounted35Emp = магазин патрон (.35 пистолетный, ЭМИ)
-ent-NFMagazineSubMachineGunTopMounted35Empty = магазин патрон (.35 пистолетный, любой)
+ent-NFMagazineSubMachineGun35Incendiary = магазин (.35 пистолетный, зажигательный)
+ent-NFMagazineSubMachineGun35Overpressure = магазин (.35 пистолетный, экспансивный)
+ent-NFMagazineSubMachineGun35Practice = магазин (.35 пистолетный, учебный)
+ent-NFMagazineSubMachineGun35Rubber = магазин (.35 пистолетный, резиновый)
+ent-NFMagazineSubMachineGun35Uranium = магазин (.35 пистолетный, урановый)
+ent-NFMagazineSubMachineGunTopMounted35 = магазин (.35 пистолетный)
+ent-NFMagazineSubMachineGunTopMounted35Emp = магазин (.35 пистолетный, ЭМИ)
+ent-NFMagazineSubMachineGunTopMounted35Empty = магазин (.35 пистолетный, любой)
     .suffix = пустой
-ent-NFMagazineSubMachineGunTopMounted35Incendiary = магазин патрон (.35 пистолетный, зажигательный)
-ent-NFMagazineSubMachineGunTopMounted35Overpressure = магазин патрон (.35 пистолетный, экспансивный)
-ent-NFMagazineSubMachineGunTopMounted35Practice = магазин патрон (.35 пистолетный, учебный)
-ent-NFMagazineSubMachineGunTopMounted35Rubber = магазин патрон (.35 пистолетный, резиновый)
-ent-NFMagazineSubMachineGunTopMounted35Uranium = магазин патрон (.35 пистолетный, урановый)
+ent-NFMagazineSubMachineGunTopMounted35Incendiary = магазин (.35 пистолетный, зажигательный)
+ent-NFMagazineSubMachineGunTopMounted35Overpressure = магазин (.35 пистолетный, экспансивный)
+ent-NFMagazineSubMachineGunTopMounted35Practice = магазин (.35 пистолетный, учебный)
+ent-NFMagazineSubMachineGunTopMounted35Rubber = магазин (.35 пистолетный, резиновый)
+ent-NFMagazineSubMachineGunTopMounted35Uranium = (.35 пистолетный, урановый)
+ent-NFSpeedLoaderPistol35 = спидлоадер патрон (.35 пистолетный)
+ent-NFSpeedLoaderPistol35Empty = спидлоадер патрон (.35 пистолетный, любой)
+    .suffix = пустой
+ent-NFSpeedLoaderPistol35Practice = спидлоадер патрон (.35 пистолетный, учебный)
+ent-NFSpeedLoaderPistol35Rubber = спидлоадер патрон (.35 пистолетный, резиновый)
+
+ent-NFBoxMagazinePistolSubMachineGun35Rubber = коробка магазинов ПП .35 пистолетный (резиновые)
+ent-NFBoxMagazineHighCapacityPistol35Overpressure = коробка увеличенных магазинов .35 пистолетный (экспансивные)
+ent-NFBoxMagazinePistol35Practice = коробка увеличенных магазинов .35 пистолетный (учебные)
+ent-NFBoxMagazinePistol35Rubber = коробка увеличенных магазинов .35 пистолетный (резиновые)
 
 
 
@@ -180,19 +197,27 @@ ent-NFCartridgePistol45Practice = патрон (.45 пистолетный, уч
 ent-NFCartridgePistol45Rubber = патрон (.45 пистолетный, резиновый)
 ent-NFCartridgePistol45Uranium = патрон (.45 пистолетный, урановый)
 
-ent-NFMagazinePistol45 = магазин патрон (.45 пистолетный)
-ent-NFMagazinePistol45Empty = магазин патрон (.45 пистолетный, любой)
+ent-NFMagazinePistol45 = магазин (.45 пистолетный)
+ent-NFMagazinePistol45Empty = магазин (.45 пистолетный, любой)
     .suffix = пустой
-ent-NFMagazinePistol45Incendiary = магазин патрон (.45 пистолетный, зажигательный)
-ent-NFMagazinePistol45Overpressure = магазин патрон (.45 пистолетный, экспансивный)
-ent-NFMagazinePistol45Practice = магазин патрон (.45 пистолетный, учебный)
-ent-NFMagazinePistol45Rubber = магазин патрон (.45 пистолетный, резиновый)
-ent-NFMagazinePistol45Uranium = магазин патрон (.45 пистолетный, урановый)
-ent-NFMagazineSubMachineGun45 = магазин патрон (.45 пистолетный)
-ent-NFMagazineSubMachineGun45Empty = магазин патрон (.45 пистолетный, любой)
+ent-NFMagazinePistol45Incendiary = магазин (.45 пистолетный, зажигательный)
+ent-NFMagazinePistol45Overpressure = магазин (.45 пистолетный, экспансивный)
+ent-NFMagazinePistol45Practice = магазин (.45 пистолетный, учебный)
+ent-NFMagazinePistol45Rubber = магазин (.45 пистолетный, резиновый)
+ent-NFMagazinePistol45Uranium = магазин (.45 пистолетный, урановый)
+ent-NFMagazineSubMachineGun45 = магазин (.45 пистолетный)
+ent-NFMagazineSubMachineGun45Empty = магазин (.45 пистолетный, любой)
     .suffix = пустой
-ent-NFMagazineSubMachineGun45Overpressure = магазин патрон (.45 пистолетный, экспансивный)
-ent-NFMagazineSubMachineGun45Rubber = магазин патрон (.45 пистолетный, резиновый)
+ent-NFMagazineSubMachineGun45Overpressure = магазин (.45 пистолетный, экспансивный)
+ent-NFMagazineSubMachineGun45Rubber = магазин (.45 пистолетный, резиновый)
+ent-NFSpeedLoaderPistol45 = спидлоадер (.45 пистолетный)
+ent-NFSpeedLoaderPistol45Empty = спидлоадер (.45 пистолетный, любой)
+    .suffix = пустой
+ent-NFSpeedLoaderPistol45Incendiary = спидлоадер (.45 пистолетный, зажигательный)
+ent-NFSpeedLoaderPistol45Overpressure = спидлоадер (.45 пистолетный, экспансивный)
+ent-NFSpeedLoaderPistol45Practice = спидлоадер (.45 пистолетный, учебный)
+ent-NFSpeedLoaderPistol45Rubber = спидлоадер (.45 пистолетный, резиновый)
+ent-NFSpeedLoaderPistol45Uranium = спидлоадер (.45 пистолетный, урановый)
 
 
 
@@ -230,7 +255,7 @@ ent-NFShellShotgunUranium = пуля (.50 дробь, урановая)
 ent-NFMagazineShotgunDrumEmpty = барабан пуль (.50 дробь, любой)
     .suffix = пустой
 ent-NFMagazineShotgunDrumBeanbag = барабан пуль (.50 дробь, травматический)
-ent-NFMagazineShotgunDrumBuckshot = барабан пуль (.50 дробь)
+ent-NFMagazineShotgunDrum = барабан пуль (.50 дробь)
 ent-NFMagazineShotgunDrumIncendiary = барабан пуль (.50 дробь, зажигательный)
 ent-NFMagazineShotgunDrumSlug = барабан пуль (.50 дробь, пуля)
 
@@ -253,3 +278,25 @@ ent-NFCartridgeRocketMini = миниракета
 
 
 ent-NFCartridgeCap = фальшивый патрон
+
+
+
+ent-NFMagazineBoxFoam = магазин поролоновых пуль
+ent-NFBoxDonkSoftBox = коробка поролоновых пуль
+
+ent-NFBulletFoam = поролоновая пуля
+
+ent-NFSpeedLoaderCap = спидлоадер поролоновых пуль
+
+ent-NFBoxCartridgeCap = коробка фальшивых пуль
+
+
+
+ent-NFCannonBall = пушечное ядро
+    .suffix = пират
+ent-NFCannonBallGlassshot = стеклянная картечь
+    .suffix = пират
+ent-NFCannonBallGrapeshot = картечь
+    .suffix = пират
+ent-NFCannonBallEMP = шоковое ядро
+    .suffix = пират
