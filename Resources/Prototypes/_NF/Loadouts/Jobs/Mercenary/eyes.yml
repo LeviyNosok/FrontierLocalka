@@ -9,3 +9,10 @@
   price: 0
   equipment:
     eyes: ClothingEyesGlassesSunglasses
+
+#Corvax Frontier
+- type: loadout
+  id: MercenaryClothingEyesArcadiaVisor
+  price: 7500
+  equipment:
+    eyes: ClothingEyesArcadiaVisor

@@ -12,6 +12,9 @@
   - MercenaryClothingUniformJumpsuitMilitaryTurtleneckBlueMercenary
   - MercenaryClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic
   - MercenaryClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain
+  - MercenaryClothingUniformJumpskirtArcadia #Corvax Frontier
+  - MercenaryClothingUniformJumpsuitArcadia #Corvax Frontier
+  - MercenaryClothingUniformJumpsuitMilitaryArcadiaTac #Corvax Frontier
   subgroups:
   - PilotJumpsuit
   - ContractorJumpsuit
@@ -29,6 +32,10 @@
   - MercenaryClothingBackpackMessengerMercenary
   - MercenaryClothingBackpackDuffelPrivateSecurity
   - MercenaryClothingBackpackMessengerPrivateSecurity
+  - MercenaryClothingBackpackArcadia #Corvax Frontier
+  - MercenaryClothingBackpackDuffelArcadia #Corvax Frontier
+  - MercenaryClothingBackpackSatchelArcadia #Corvax Frontier
+  - MercenaryClothingBackpackMessengerArcadia #Corvax Frontier
   - SecurityBackpack
   - SecuritySatchel
   - SecurityDuffel
@@ -50,6 +57,9 @@
   - MercenaryClothingOuterArmorPunkRed # Punkish (Static visuals)
   - MercenaryClothingOuterArmorPunkRandomized # Punkish (Randomized visuals)
   - MercenaryClothingOuterArmorCaptainCarapace
+  - MercenaryClothingOuterEVASuitArcadia #Corvax Frontier
+  - MercenaryClothingOuterWinterArcadia #Corvax Frontier
+  - MercenaryClothingOuterCoatArcadiaTrench #Corvax Frontier
   subgroups:
   - PilotOuterClothing
   - ContractorOuterClothing
@@ -109,6 +119,7 @@
   - MercenaryClothingHandsGlovesMercFingerless
   - MercenaryClothingHandsMercenaryGlovesCombat
   - MercenaryClothingHandsGlovesCombat
+  - MercenaryClothingHandsGlovesArcadiaCombat #Corvax Frontier
   subgroups:
   - PilotGloves
   - ContractorGloves
@@ -131,6 +142,7 @@
   loadouts:
   - MercenaryClothingEyesGlassesMercenary
   - MercenaryClothingEyesGlassesSunglasses
+  - MercenaryClothingEyesArcadiaVisor #Corvax Frontier
   subgroups:
   - PilotGlasses
   - ContractorGlasses
@@ -141,6 +153,7 @@
   loadouts:
   - MercenaryClothingMaskGasMercenary
   - MercenaryClothingMaskGasSecurity
+  - MercenaryClothingMaskArcadia #Corvax Frontier
   subgroups:
   - PilotFace
   - ContractorFace
@@ -156,5 +169,6 @@
   - MercenaryClothingBeltMilitaryWebbing
   - MercenaryClothingBeltMilitaryWebbingMed
   - MercenaryClothingBeltSecurity
+  - MercenaryClothingBeltArcadia #Corvax Frontier
   subgroups:
   - ContractorBelt
