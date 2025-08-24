@@ -86,7 +86,7 @@
   equipment:
     jumpsuit: ClothingUniformJumpsuitMilitaryPilot
 
-#Corvax Frontier
+#Forge-Change
 - type: loadout
   id: MercenaryClothingUniformJumpskirtArcadia
   effects:
