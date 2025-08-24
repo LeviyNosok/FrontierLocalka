@@ -10,7 +10,7 @@
   equipment:
     eyes: ClothingEyesGlassesSunglasses
 
-#Corvax Frontier
+#Forge-Change
 - type: loadout
   id: MercenaryClothingEyesArcadiaVisor
   price: 7500
