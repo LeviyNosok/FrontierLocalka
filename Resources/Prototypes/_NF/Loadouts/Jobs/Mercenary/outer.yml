@@ -71,7 +71,7 @@
   equipment:
     outerClothing: ClothingOuterArmorCaptainCarapace
 
-#Corvax Frontier
+#Forge-Change
 - type: loadout
   id: MercenaryClothingOuterEVASuitArcadia
   hideEffects:
