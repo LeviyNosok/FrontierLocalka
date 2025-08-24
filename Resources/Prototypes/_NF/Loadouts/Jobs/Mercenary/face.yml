@@ -12,7 +12,7 @@
     back:
     - ClothingMaskGasSecurity
 
-#Corvax Frontier
+#Forge-Change
 - type: loadout
   id: MercenaryClothingMaskArcadia
   price: 1500
