@@ -17,7 +17,7 @@
   equipment:
     gloves: ClothingHandsGlovesCombat
 
-#Corvax Frontier
+#Forge-Change
 - type: loadout
   id: MercenaryClothingHandsGlovesArcadiaCombat
   price: 1500
