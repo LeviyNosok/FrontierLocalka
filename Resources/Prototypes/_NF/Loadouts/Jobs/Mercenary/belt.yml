@@ -22,7 +22,7 @@
   equipment:
     belt: ClothingBeltSecurityFilled
 
-#Corvax Frontier
+#Forge-Change
 - type: loadout
   id: MercenaryClothingBeltArcadia
   price: 1500
