@@ -35,7 +35,7 @@
     back: ClothingBackpackMessengerPrivateSecurity
 
 
-#Corvax Frontier
+#Forge-Change
 - type: loadout
   id: MercenaryClothingBackpackArcadia
   price: 1500
