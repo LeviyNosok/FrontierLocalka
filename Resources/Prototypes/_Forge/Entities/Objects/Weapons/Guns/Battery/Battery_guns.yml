@@ -301,10 +301,32 @@
     sprite: Forge/Objects/Weapons/Guns/Battery/laser_pistol_syndie.rsi
   - type: Clothing
     sprite: Forge/Objects/Weapons/Guns/Battery/laser_pistol_syndie.rsi
-  - type: Battery # 26 shots
+  - type: Battery 
     maxCharge: 1560
     startingCharge: 1560
-  - type: BatterySelfRecharger # Recharges 1 shot per 2 seconds
+  - type: BatterySelfRecharger 
+    autoRecharge: true
+    autoRechargeRate: 30
+  - type: Tag
+    tags:
+    - Sidearm
+  - type: Item
+
+- type: entity
+  id: WeaponSPTLaserPistol
+  parent: [ BaseWeaponEnergyPistolFireModesSyndie, BaseWeaponFrameEnergyPistolSyndie, BaseC1Contraband ]
+  name: SPT pistol
+  description: |-
+    Powerful laser pistol specially designed by Vitezstvi for the paramedics
+  components:
+  - type: Sprite
+    sprite: Forge/Objects/Weapons/Guns/Battery/SPTgun.rsi
+  - type: Clothing
+    sprite: Forge/Objects/Weapons/Guns/Battery/SPTgun.rsi
+  - type: Battery 
+    maxCharge: 1200
+    startingCharge: 1200
+  - type: BatterySelfRecharger 
     autoRecharge: true
     autoRechargeRate: 30
   - type: Tag
