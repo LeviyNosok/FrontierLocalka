@@ -23,3 +23,19 @@
     state: icon
   name: alerts-magboots-name
   description: alerts-magboots-desc
+
+- type: entity
+  parent: [ClothingShoesBootsMagSecurity, BaseC1Contraband] #Corvax-Frontier КБ
+  id: ClothingShoesBootsMagSPT
+  name: SPT magboots
+  components:
+  - type: Sprite
+    sprite: Forge/Clothing/Shoes/Boots/SPTmagboots.rsi
+    state: icon
+  - type: Clothing
+    sprite: Forge/Clothing/Shoes/Boots/SPTmagboots.rsi
+  - type: Magboots
+    magbootsAlert: MagbootsSPT
+  - type: ClothingSpeedModifier
+    walkModifier: 0.95
+    sprintModifier: 0.9

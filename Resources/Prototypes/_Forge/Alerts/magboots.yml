@@ -1,0 +1,7 @@
+- type: alert
+  id: MagbootsSPT
+  icons:
+  - sprite: Forge/Clothing/Shoes/Boots/SPTmagboots.rsi
+    state: icon-on
+  name: alerts-magboots-name
+  description: alerts-magboots-desc

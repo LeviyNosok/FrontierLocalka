@@ -43,8 +43,8 @@
 
 - type: thiefBackpackSet
   id: ParamedNonlethalSet
-  name: "Non-lethal set"
-  description: medic-backpack-category-fight-description
+  name: thief-backpack-category-SPT-nonlethal-name
+  description: thief-backpack-category-SPT-nonlethal-description
   sprite:
     sprite: Forge/Objects/Weapons/Guns/Shotguns/kd12.rsi
     state: icon
@@ -56,11 +56,12 @@
   - DefibrillatorCompact
   - ClothingShoesBootsMagBlinding
   - HypoMini
+  - ClothingHandsGlovesNitrileInsulated
 
 - type: thiefBackpackSet
   id: ParamedChemicalSet
-  name: "Chemical set"
-  description: medic-backpack-category-fight-description
+  name: thief-backpack-category-SPT-chemical-name
+  description: thief-backpack-category-SPT-chemical-description
   sprite:
     sprite: _NF/Structures/Machines/medical_assembler.rsi
     state: icon
@@ -72,11 +73,12 @@
   - DefibrillatorCompact
   - ClothingShoesBootsMagBlinding
   - HypoMini
+  - ClothingHandsGlovesNitrileInsulated
 
 - type: thiefBackpackSet
   id: ParamedDisablerSet
-  name: "Disabler set"
-  description: medic-backpack-category-fight-description
+  name: thief-backpack-category-SPT-disabler-name
+  description: thief-backpack-category-SPT-disabler-description
   sprite:
     sprite: Objects/Weapons/Guns/Battery/disabler.rsi
     state: base
@@ -89,11 +91,12 @@
   - DefibrillatorCompact
   - ClothingShoesBootsMagBlinding
   - HypoMini
+  - ClothingHandsGlovesNitrileInsulated
 
 - type: thiefBackpackSet
   id: ParamedAdvancedLethalSet
-  name: "Advanced lethal set"
-  description: medic-backpack-category-fight-description
+  name: thief-backpack-category-SPT-lethal-name
+  description: thief-backpack-category-SPT-lethal-description
   sprite:
     sprite: _DV/Objects/Weapons/Guns/Pistols/pollock.rsi
     state: base
@@ -104,13 +107,14 @@
   - JetpackParamedFilled
   - ClothingOuterHardsuitSPT
   - DefibrillatorCompact
-  - ClothingShoesBootsMagBlinding
+  - ClothingShoesBootsMagSPT
   - HypoBrigmedic
+  - ClothingHandsGlovesNitrileInsulated
 
 - type: thiefBackpackSet
   id: ParamedAdvancedLaserSet
-  name: "Advanced laser set"
-  description: medic-backpack-category-fight-description
+  name: thief-backpack-category-SPT-laser-name
+  description: thief-backpack-category-SPT-laser-description
   sprite:
     sprite: Forge/Objects/Weapons/Guns/Battery/SPTgun.rsi
     state: base
@@ -119,5 +123,6 @@
   - JetpackParamedFilled
   - ClothingOuterHardsuitSPT
   - DefibrillatorCompact
-  - ClothingShoesBootsMagBlinding
+  - ClothingShoesBootsMagSPT
   - HypoBrigmedic
+  - ClothingHandsGlovesNitrileInsulated

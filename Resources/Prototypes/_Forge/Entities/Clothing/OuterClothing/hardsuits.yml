@@ -6,11 +6,11 @@
   description: A protective hardsuit worn by the special paramedics team.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi
+    sprite: Forge/Clothing/OuterClothing/Hardsuits/SPTscaf.rsi
   - type: Item
     size: Huge
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/ERTSuits/ertmedical.rsi
+    sprite: Forge/Clothing/OuterClothing/Hardsuits/SPTscaf.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.05
     lowPressureMultiplier: 1000
@@ -32,7 +32,7 @@
     sprintModifier: 0.9
   - type: HeldSpeedModifier
   - type: ToggleableClothing
-    clothingPrototype: ClothingHeadHelmetHardsuitERTMedical
+    clothingPrototype: ClothingHeadHelmetHardsuitSPT
   - type: Tag
     tags:
     - Hardsuit
