@@ -31,6 +31,7 @@
     state: icon
   - type: ThiefUndeterminedBackpack
   maxSelectedSets: 1
+  
     possibleSets:
     - ParamedAdvancedLethalSet
     - ParamedAdvancedLaserSet
