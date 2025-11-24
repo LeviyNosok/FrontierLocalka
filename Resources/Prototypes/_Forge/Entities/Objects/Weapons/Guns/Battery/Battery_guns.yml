@@ -417,10 +417,10 @@
     sprite: Forge/Objects/Weapons/Guns/Battery/DOC.rsi
   - type: Clothing
     sprite: Forge/Objects/Weapons/Guns/Battery/DOC.rsi
-  - type: Battery 
+  - type: Battery
     maxCharge: 1200
     startingCharge: 1200
-  - type: BatterySelfRecharger 
+  - type: BatterySelfRecharger
     autoRecharge: true
     autoRechargeRate: 35
   - type: Tag

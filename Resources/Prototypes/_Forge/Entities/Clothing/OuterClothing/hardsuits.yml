@@ -75,7 +75,7 @@
     sprintModifier: 0.9
 
 - type: entity
-  parent: [ClothingOuterHardsuitBase, BaseC1Contraband] 
+  parent: [ClothingOuterHardsuitBase, BaseC1Contraband]
   id: ClothingOuterHardsuitDOC
   name: DOC hardsuit
   description: A protective hardsuit worn by Director of Care.
