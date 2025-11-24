@@ -30,8 +30,13 @@
     sprite: Forge/Objects/Misc/Paramedbox.rsi
     state: icon
   - type: ThiefUndeterminedBackpack
+<<<<<<< HEAD
     maxSelectedSets: 1
     
+=======
+  maxSelectedSets: 1
+  
+>>>>>>> 0e49be0fc37b8af668f44b805e43b9649e921e04
     possibleSets:
     - ParamedAdvancedLethalSet
     - ParamedAdvancedLaserSet
