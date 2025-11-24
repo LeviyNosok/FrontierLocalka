@@ -2,7 +2,7 @@
   id: ToolboxParamed
   name: медицинский ящик неопределённости
   description: Что же взять на этот раз?
-  parent: [ BaseItem ] 
+  parent: [ BaseItem ]
   components:
   - type: Sprite
     sprite: Forge/Objects/Misc/Paramedbox.rsi
@@ -24,17 +24,13 @@
   id: ToolboxParamedAdvanced
   name: продвинутый медицинский ящик неопределённости
   description: Что же взять на этот раз?
-  parent: [ BaseItem ] 
+  parent: [ BaseItem ]
   components:
   - type: Sprite
     sprite: Forge/Objects/Misc/Paramedbox.rsi
     state: icon
   - type: ThiefUndeterminedBackpack
-<<<<<<< HEAD
     maxSelectedSets: 1
-=======
-  maxSelectedSets: 1
->>>>>>> 2e80e5d8cb1b1220bf4ad11a3425a4241a94f9c7
     possibleSets:
     - ParamedAdvancedLethalSet
     - ParamedAdvancedLaserSet
