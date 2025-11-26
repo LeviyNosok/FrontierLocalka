@@ -218,7 +218,7 @@
     startingCharge: 2400
   - type: BatterySelfRecharger
     autoRecharge: true
-    autoRechargeRate: 12
+    autoRechargeRate: 15
   - type: NFWeaponDetails
     class: weapon-details-class-assault-rifle
 
@@ -274,7 +274,8 @@
     impactEffect: BulletImpactEffectOrangeDisabler
     damage:
       types:
-        Heat: 15
+        Heat: 16
+        Radiation: 4
 
 - type: entity
   id: BulletLaserSyndie
@@ -285,7 +286,8 @@
     impactEffect: BulletImpactEffectOrangeDisabler
     damage:
       types:
-        Heat: 10
+        Heat: 11
+        Radiation: 3
 
 - type: entity
   id: WeaponSyndieEnergyFalconPistolLaser
