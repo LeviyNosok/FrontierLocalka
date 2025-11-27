@@ -54,8 +54,8 @@
         Shock: 0.6
         Caustic: 0.6
   - type: ClothingSpeedModifier  # Corvax-Forge: Armor rebalance
-    walkModifier: 1
-    sprintModifier: 1
+    walkModifier: 0.8
+    sprintModifier: 0.8
 
 #Emergency EVA
 - type: entity
