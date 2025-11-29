@@ -410,7 +410,7 @@
 
 - type: entity
   id: WeaponDOCLaserPistol
-  parent: [ BaseWeaponEnergyPistolFireModesSyndie, BaseWeaponFrameEnergyPistolSyndie, BaseC1Contraband ]
+  parent: [ NFBaseWeaponEnergyPistolFireModes, NFBaseWeaponFrameEnergyPistolNanotrasen ]
   name: DOC pistol
   description: |-
     Powerful laser pistol specially designed by Vitezstvi for the Director of Care
