@@ -40,7 +40,6 @@
       fireCost: 90
     - proto: NFBulletDisabler
       fireCost: 62.5
-      pacifismAllowedMode: true
   - type: BatterySelfRecharger
     autoRecharge: true
     autoRechargeRate: 25
